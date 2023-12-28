@@ -1,3 +1,5 @@
+#Find the Profit or Loss using if-else statement
+
 #!/bin/bash
 
 echo "Enter the Amount at starting of the Year"

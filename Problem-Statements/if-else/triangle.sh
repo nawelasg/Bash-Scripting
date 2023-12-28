@@ -1,3 +1,5 @@
+#Check if the input angles form a triangle or not using if-else statement
+
 #!/bin/bash
 
 echo "Enter the angle A"

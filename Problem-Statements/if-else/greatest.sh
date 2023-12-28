@@ -1,3 +1,5 @@
+#Find the greatest of three numbers using if-else statement
+
 #!/bin/bash
 
 echo "Enter the Number A"

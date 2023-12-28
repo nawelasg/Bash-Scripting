@@ -1,3 +1,5 @@
+#Check whether the input year is a leap year or not using if-else statement
+
 #!/bin/bash
 
 echo "Enter the Year"

@@ -1,3 +1,5 @@
+#Check whether the input character is an alphabet, digit or special character using if-else statement
+
 #!/bin/bash
 
 echo "Input your Character"
