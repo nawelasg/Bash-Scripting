@@ -23,7 +23,7 @@ The repository is organized as follows:
 - `Problem-Statements`: Contains scripts that solve various problems using shell scripting. The scripts in this directory are further divided into subdirectories based on the type of constructs they use:
     - `if-else`: Contains problems that require the use of if-else statements.
     - `loops`: Contains problems that require the use of loops (for, while, etc.).
-    - `switch-case`: Contains problems that require the use of switch-case statements.
+    - `case`: Contains problems that require the use of case statements.
     - `functions`: Contains problems that require the use of functions.
     - `shapes`: Contains problems that involve generating different shapes.
     - `arrays`: Contains problems that require the use of arrays.
