@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-function bin(){
+function b2d(){
     echo "Enter a Binary Number"
     read A
 
@@ -22,4 +22,21 @@ function bin(){
 
 }
 
-bin
+function d2b(){
+        echo "Enter Decimal Number"
+        read n
+        A=$n
+        ans=0
+        while [ $n -gt 0 ]
+        do
+                rem=$(( n%2 ))
+                ans=$rem$ans
+                n=$(( n/2 ))
+        done
+        ans=$((ans/10))
+        echo "Binary Equivalent of $A is $ans"
+
+}
+
+b2d
+d2b
